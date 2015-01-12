@@ -42,7 +42,7 @@ int main()
 		  printf("Number 5: ");
 		  scanf("%i", &g);
 		  average = (c + d + e + f + g)/2;
-		  printf("\nAverage: %i\n", average);
+		  printf("\nAverage is: %i\n", average);
 		  break;
 	default: printf("error\n");
 	}
