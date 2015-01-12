@@ -26,6 +26,9 @@ int main()
 	case '*': total = a * b;
 		  printf("%i\n", total);
 		  break;
+	case '/': total = a / b;
+		  printf("%i\n", total);
+		  break;
 	default: printf("error\n");
 	}
 				
