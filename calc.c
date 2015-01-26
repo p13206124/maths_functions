@@ -85,8 +85,5 @@ int main()
 		  printf("Your largest number was %i. Your smallest number was %i.\n", max, min);  
 		  break;
 	default: printf("error\n");
-	}
-	
-	//This is the line causing issue in the conflict branch
-	
+	}	
 }
