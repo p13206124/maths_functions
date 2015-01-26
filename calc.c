@@ -54,7 +54,7 @@ int main()
 		  break;
 	default: printf("error\n");
 	}
-		
-	//This is the line causing issue in the master branch
+	
+	//This is the line causing issue in the conflict branch
 	
 }
